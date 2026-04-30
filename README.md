@@ -52,7 +52,7 @@ Dengan kombinasi kemampuan **teknis dan bisnis**, saya fokus pada pengambilan ke
 * Machine Learning
 * Data Analysis
 * Data Visualization
-* XGBoost
+* Data Classification
 * Git & GitHub
 
 **Business Skills:**
