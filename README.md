@@ -68,7 +68,7 @@ Dengan kombinasi kemampuan **teknis dan bisnis**, saya fokus pada pengambilan ke
 
 **Universitas Gunadarma**
 Sarjana Ilmu Komputer (2022 – 2026)
-IPK: **3.71 / 4.00**
+IPK: **3.63 / 4.00**
 
 Mata kuliah relevan:
 
